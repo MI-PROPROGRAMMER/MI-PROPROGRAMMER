@@ -2,10 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ismaeel</h1>
 <h3 align="center">A passionate Web 2.0 and Web 3.0 Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mi-proprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="mi-proprogrammer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mi-proprogrammer" alt="mi-proprogrammer" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://asset.cloudinary.com/dr3mbcbox/4f11cede63f55831d0a5b8e18ade8805" />
 
 - 🔭 I’m currently working on **Blockchain Based Pharmaceutical Supplychain and Procurement system**
 
@@ -24,6 +21,10 @@
 - 📫 How to reach me **mi.tech0786@gmail.com**
 
 - 📄 Know about my experiences [muhammadismaeel.com](muhammadismaeel.com)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mi-proprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="mi-proprogrammer" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mi-proprogrammer" alt="mi-proprogrammer" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
