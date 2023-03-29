@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4D16AQE7DenP3uQXvw/profile-displaybackgroundimage-shrink_350_1400/0/1631292200517?e=1685577600&v=beta&t=qlDoM4CrgkqFmEmylFDW_uic2dd5C_8uGB_QuMhxk0o)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ismaeel</h1>
 <h3 align="center">A passionate Web 2.0 and Web 3.0 Developer</h3>
