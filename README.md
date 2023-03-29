@@ -12,15 +12,15 @@
 
 - 🤝 I’m looking for help with **Everything I can**
 
-- 👨‍💻 All of my projects are available at [muhammadismaeel.com](muhammadismaeel.com)
+- 👨‍💻 All of my projects are available at **<a href="http://muhammadismaeel.com">muhammadismaeel.com</a>**
 
-- 📝 Sometimes I write articles on [https://medium.com/@mi.tech0786](https://medium.com/@mi.tech0786)
+- 📝 Sometimes I write articles on **<a href="https://medium.com/@mi.tech0786">Here</a>**
 
 - 💬 Ask me about **Web 2.0 and Web 3.0**
 
 - 📫 How to reach me **mi.tech0786@gmail.com**
 
-- 📄 Know about my experiences [muhammadismaeel.com](muhammadismaeel.com)
+- 📄 Know about my experiences **<a href="http://muhammadismaeel.com">muhammadismaeel.com</a>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mi-proprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="mi-proprogrammer" /> </p>
 
